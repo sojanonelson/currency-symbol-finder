@@ -1,0 +1,28 @@
+{
+  "name": "currency-symbol-finder",
+  "version": "1.0.2",
+  "description": "A simple package to find currency symbols based on country codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sojan O Nelson",
+  "license": "ISC",
+  "keywords": [
+    "currency",
+    "symbol",
+    "finder",
+    "country-code",
+    "currencies",
+    "international",
+    "money"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sojanonelson/currency-symbol-finder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sojanonelson/currency-symbol-finder/issues"
+  },
+  "homepage": "https://github.com/sojanonelson/currency-symbol-finder/blob/main/README.md"
+}
